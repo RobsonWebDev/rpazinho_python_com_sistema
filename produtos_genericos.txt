@@ -1,0 +1,251 @@
+Nome;Quantidade;Preço
+Caneta 995;70;410.66
+Quadro Branco 137;90;378.43
+Papel A4 824;61;182.46
+Notebook 267;72;121.98
+HD Externo 922;25;255.23
+Revista 259;9;335.51
+HD Externo 185;22;99.07
+Borracha 428;71;242.47
+Tinta 307;83;298.44
+Tinta 348;28;348.19
+Caneta 996;7;121.71
+Pendrive 749;77;94.2
+Caneta 606;45;19.61
+Caneta Quadro 277;27;360.11
+Teclado 177;37;491.84
+Estojo 849;38;267.09
+Pendrive 161;1;242.46
+Mouse 275;36;447.02
+Teclado 136;46;299.07
+Gaveteiro 834;40;412.27
+Toner 174;5;197.1
+Quadro Branco 566;10;313.65
+Quadro Branco 995;14;149.67
+Bloco de Notas 260;60;380.45
+Tinta 917;83;488.22
+Marcador 577;87;473.27
+Lápis 160;22;475.62
+Mesa 963;98;133.93
+Pasta 761;20;369.63
+Cabo USB 298;85;488.65
+Pasta 675;42;157.63
+Estojo 199;63;61.26
+Monitor 782;81;126.26
+Pasta 936;33;84.11
+Webcam 538;78;301.63
+Cartolina 164;93;180.4
+Calculadora 878;32;174.7
+HD Externo 696;59;176.11
+Caneta Quadro 959;11;451.54
+Régua 826;33;318.63
+Pasta 715;49;368.92
+Estabilizador 813;50;11.74
+Apagador 224;55;211.56
+Revista 646;82;408.41
+Fita Adesiva 477;91;348.17
+Papel A4 170;46;331.82
+Cartolina 566;2;255.29
+Gaveteiro 674;29;32.19
+Toner 377;77;33.27
+Caderno 624;24;107.51
+Apagador 216;42;92.12
+Monitor 515;61;470.56
+Papel A4 775;84;372.85
+Marcador 150;66;37.14
+Lápis 719;15;459.98
+Cola 361;90;83.21
+Etiqueta 332;7;413.87
+Scanner 309;71;448.67
+Caderno 789;53;341.56
+Teclado 447;6;156.68
+Pincel 433;23;57.69
+Envelope 686;67;446.35
+Toner 244;98;189.18
+Pasta 189;31;388.82
+Bloco de Notas 473;4;452.5
+Impressora 451;48;432.28
+Estojo 885;20;156.99
+Porta Lápis 616;71;424.67
+Tinta 436;42;297.39
+Régua 470;84;354.09
+Carimbo 298;68;201.41
+Calculadora 355;28;74.56
+Livro 651;23;78.08
+Cartolina 407;80;221.24
+Gaveteiro 439;90;227.89
+Arquivo 986;85;85.89
+Estabilizador 764;66;129.6
+Tesoura 243;79;375.66
+Fita Adesiva 701;73;244.89
+Gaveteiro 541;1;376.61
+Impressora 335;17;167.31
+Cartolina 729;90;204.53
+HD Externo 136;92;280.52
+Bloco de Notas 432;36;304.87
+Webcam 481;75;55.57
+Marcador 215;43;442.39
+Clips 885;22;258.89
+Quadro Branco 780;77;366.79
+Apagador 554;32;127.0
+Pincel 883;3;268.09
+Calculadora 372;74;196.91
+Mouse 834;75;393.57
+Cola 699;28;188.99
+Régua 266;28;440.37
+Grampeador 197;74;366.24
+Notebook 659;54;286.86
+Fone de Ouvido 734;46;289.73
+Tesoura 852;44;497.62
+Caderno 384;97;347.99
+Suporte Monitor 164;99;337.27
+Webcam 728;16;113.92
+Grampeador 508;59;304.66
+Apagador 331;7;181.39
+Clips 860;10;133.22
+Mesa 994;27;142.06
+Arquivo 682;96;394.83
+Agenda 956;30;465.78
+Quadro Branco 960;11;245.26
+Scanner 111;99;166.86
+Impressora 930;27;493.85
+Pendrive 250;61;359.36
+Bloco de Notas 763;57;195.85
+Webcam 661;12;400.16
+Livro 265;34;66.75
+Papel A4 109;61;336.35
+Régua 381;52;181.82
+Tinta 632;4;161.37
+Borracha 662;90;402.51
+Webcam 183;64;72.02
+Webcam 896;63;37.07
+Apontador 983;59;353.57
+Tinta 371;76;390.41
+Envelope 523;39;52.27
+Pasta 138;59;44.2
+Revista 105;27;90.2
+Cabo USB 793;47;128.41
+Grampeador 247;52;27.96
+Bloco de Notas 510;53;267.05
+Impressora 389;74;345.38
+Papel A4 106;35;128.44
+Impressora 944;72;342.88
+Porta Lápis 603;84;195.13
+Organizador 358;56;65.29
+Quadro Branco 369;4;134.84
+Envelope 801;87;126.78
+Apagador 973;34;182.92
+Fone de Ouvido 219;63;299.86
+Organizador 814;20;306.86
+Fone de Ouvido 521;63;490.71
+Pasta 505;45;318.06
+Notebook 692;78;199.26
+Mouse 320;72;266.07
+Fita Adesiva 320;89;242.75
+Tinta 309;53;437.26
+Apontador 989;25;57.68
+Cabo USB 837;26;182.36
+Caneta 728;15;355.25
+Livro 515;60;79.32
+Pendrive 233;69;360.95
+Caneta 260;50;133.48
+Livro 873;10;279.87
+Pincel 768;37;245.41
+Agenda 977;2;99.21
+Grampeador 981;29;189.2
+Borracha 265;31;340.96
+Arquivo 567;12;343.51
+Pincel 418;69;162.91
+Luminária 867;40;347.65
+Cola 952;44;4.58
+Carimbo 589;67;244.17
+Notebook 824;40;327.04
+Lápis 299;17;403.34
+Pincel 989;31;290.43
+Caderno 500;93;314.89
+Papel A4 325;25;243.91
+Porta Lápis 374;56;135.05
+Livro 609;62;445.36
+HD Externo 605;19;137.17
+Apagador 498;68;23.87
+Apontador 646;22;219.2
+Fita Adesiva 861;37;366.88
+Teclado 299;77;12.06
+Cadeira 215;51;49.48
+Quadro Branco 935;100;164.48
+Grampeador 500;77;172.36
+Webcam 662;26;479.84
+Estabilizador 892;30;268.67
+Envelope 717;1;271.77
+Borracha 263;60;497.22
+Suporte Monitor 178;47;332.51
+Caderno 670;97;473.2
+Apagador 348;71;175.21
+Caneta Quadro 125;66;482.49
+Fone de Ouvido 827;62;411.29
+Tinta 737;74;21.29
+Carimbo 678;17;306.03
+Porta Lápis 937;22;394.47
+Scanner 824;93;446.18
+Caneta 445;12;371.74
+Cadeira 892;30;396.26
+Carimbo 694;24;332.47
+Luminária 367;70;94.63
+Pasta 998;41;444.27
+Caneta Quadro 196;42;201.23
+Teclado 704;88;271.61
+Carimbo 246;9;177.07
+Papel A4 625;83;436.05
+Bloco de Notas 860;30;396.83
+Cabo USB 744;17;186.16
+Bloco de Notas 517;82;414.13
+Clips 165;83;105.99
+HD Externo 556;97;177.92
+Caderno 453;27;126.44
+Caneta 762;4;317.73
+Cartolina 749;66;282.29
+Tinta 671;37;413.99
+Cadeira 972;13;30.07
+Pendrive 787;43;345.77
+Suporte Monitor 897;97;2.27
+Teclado 760;21;109.53
+Apontador 950;72;112.8
+Cola 351;31;280.53
+Fita Adesiva 408;33;494.32
+Lápis 186;19;358.08
+Borracha 555;9;72.57
+Carimbo 688;9;493.98
+Notebook 342;50;280.75
+Cadeira 535;41;88.79
+Régua 480;3;395.68
+Cola 817;82;325.29
+Pincel 463;45;220.25
+Apagador 792;98;478.3
+Grampeador 812;89;288.7
+Régua 619;72;135.66
+Pendrive 756;45;142.7
+Cartolina 408;9;22.72
+Clips 338;54;226.11
+Papel A4 304;10;276.52
+Teclado 919;26;454.45
+Cola 871;91;495.53
+Webcam 414;45;206.19
+Impressora 212;51;322.93
+Lápis 461;73;241.21
+Porta Lápis 860;91;193.63
+Etiqueta 632;92;26.57
+Cartolina 182;90;165.72
+Marcador 333;95;400.99
+Pincel 642;65;172.49
+Gaveteiro 913;85;394.08
+Cadeira 672;33;102.06
+Etiqueta 185;12;215.3
+Clips 187;73;314.91
+Revista 545;98;400.85
+Gaveteiro 187;43;18.05
+Arquivo 464;94;461.27
+Etiqueta 871;21;243.25
+Apontador 728;43;341.49
+Borracha 876;80;185.58
+Pasta 469;26;146.48
+Monitor 494;8;119.63

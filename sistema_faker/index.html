@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/image.png" type="image/x-icon">
+    <title>Sistema FAKER</title>
+    <link rel="stylesheet" href="src/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="icon-container">
+                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+                    <polyline points="3.27,6.96 12,12.01 20.73,6.96"></polyline>
+                    <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                </svg>
+            </div>
+            <h1>Sistema de Cadastro Faker</h1>
+            <p>sistema para fins didáticos sem persistência em BD</p>
+        </div>
+
+        <div class="main-content">
+            <!-- Formulário de Cadastro -->
+            <div class="form-section">
+                <div class="card">
+                    <h2>
+                        <svg class="small-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="12" y1="5" x2="12" y2="19"></line>
+                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                        </svg>
+                        Cadastrar Item
+                    </h2>
+
+                    <form id="itemForm">
+                        <div class="form-group">
+                            <label>
+                                <svg class="small-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+                                    <line x1="7" y1="7" x2="7.01" y2="7"></line>
+                                </svg>
+                                Nome do Item
+                            </label>
+                            <input type="text" id="nome" placeholder="Digite o nome do item" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label>
+                                <svg class="small-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <line x1="4" y1="9" x2="20" y2="9"></line>
+                                    <line x1="4" y1="15" x2="20" y2="15"></line>
+                                    <line x1="10" y1="3" x2="8" y2="21"></line>
+                                    <line x1="16" y1="3" x2="14" y2="21"></line>
+                                </svg>
+                                Quantidade
+                            </label>
+                            <input type="number" id="quantidade" min="1" placeholder="Quantidade" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label>
+                                <svg class="small-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <line x1="12" y1="1" x2="12" y2="23"></line>
+                                    <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
+                                </svg>
+                                Preço (R$)
+                            </label>
+                            <input type="number" id="preco" step="0.01" min="0" placeholder="0,00" required>
+                        </div>
+
+                        <button type="submit" class="btn-primary">
+                            <svg class="small-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <line x1="12" y1="5" x2="12" y2="19"></line>
+                                <line x1="5" y1="12" x2="19" y2="12"></line>
+                            </svg>
+                            Cadastrar Item
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Lista de Itens -->
+            <div class="items-section">
+                <div class="card">
+                    <div class="items-header">
+                        <h2>
+                            <svg class="small-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+                                <polyline points="3.27,6.96 12,12.01 20.73,6.96"></polyline>
+                                <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                            </svg>
+                            Itens Cadastrados (<span id="itemCount">0</span>)
+                        </h2>
+                        <div class="total-section" id="totalSection" style="display: none;">
+                            <p class="total-label">Valor Total</p>
+                            <p class="total-value" id="totalValue">R$ 0,00</p>
+                        </div>
+                    </div>
+
+                    <div id="itemsList" class="items-list">
+                        <div class="empty-state">
+                            <svg class="empty-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+                                <polyline points="3.27,6.96 12,12.01 20.73,6.96"></polyline>
+                                <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                            </svg>
+                            <p class="empty-title">Nenhum item cadastrado ainda</p>
+                            <p class="empty-subtitle">Use o formulário ao lado para adicionar seus primeiros itens</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="src/script/script.js"></script>
+</body>
+</html>
