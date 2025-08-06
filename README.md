@@ -11,11 +11,11 @@
 <h2>
 Esse projeto é um RPAzinho feito utilizando python como a linguagem de programação e foi utilizado o selenium como biblioteca para manipular o navegador.
 <br>
-Primeiro ele abre o navegador com o selenium depois com o python tem a leitura de alguns arquivos nativamente, com isso ele abre uma base de dados em .txt totalmente bagunçada e com o python fazemos o tratamento e direcionamos cada informção para seu devido campo.
+Primeiro ele abre o navegador com o selenium depois com o python tem a leitura de alguns arquivos nativamente, com isso ele abre uma base de dados em .txt totalmente bagunçada e com o python fazemos o tratamento e direcionamos cada informação para seu devido campo.
 </h2>
 
 <h4>
-Para Iniciar você terá que ter o Python instalado em sua maquina
+Para Iniciar você terá que ter o Python instalado em sua máquina
 </h4>
 
 <p>Pode baixar no site oficial clicando aqui =><a href= 'https://www.python.org/downloads/'>Site Oficial</a></p>
@@ -75,3 +75,9 @@ Windows: python main.py
 
 Linux: python3 main.py
 ```
+
+<h3>Aplicação Funcionando:
+<br>
+<br>
+
+![Demonstração do vídeo do app](sistema_faker/assets/RpaPython.gif)
